@@ -1,0 +1,1 @@
+[{"id": 1, "marka": "Cool", "model": "Sportcar", "year": 2022, "decimal": 80.0, "color": "yellow", "kuzov": "pickup", "probeg": 40, "price": 100000.0}, {"id": 2, "marka": "Tiko", "model": "Mini", "year": 2003, "decimal": 56.0, "color": "blue", "kuzov": "kupe", "probeg": 54, "price": 25000.0}]
